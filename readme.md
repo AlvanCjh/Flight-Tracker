@@ -1,4 +1,5 @@
-<img width="1919" height="981" alt="Screenshot 2026-01-21 144651" src="https://github.com/user-attachments/assets/482fe69d-a198-424c-a4de-30bd404d55d7" />
+
+<img width="1919" height="981" alt="Screenshot 2026-01-21 144651" src="https://github.com/user-attachments/assets/d680895f-638f-4867-b769-6379417b724d" />
 
 # ✈️ Real-Time Global Flight Tracker
 
